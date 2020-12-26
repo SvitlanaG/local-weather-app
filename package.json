@@ -64,6 +64,7 @@
     "@angular/compiler-cli": "~11.0.1",
     "@types/jasmine": "~3.6.0",
     "@types/node": "^12.11.1",
+    "angular-unit-test-helper": "^11.0.2",
     "codelyzer": "^6.0.0",
     "dev-norms": "1.7.1",
     "import-sort": "^6.0.0",
@@ -95,5 +96,3 @@
     }
   }
 }
-
-
